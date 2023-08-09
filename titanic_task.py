@@ -83,3 +83,4 @@ Data.drop(columns='PassengerId', inplace=True)
 corr = Data.corr()
 sns.heatmap(data=corr, annot=True)
 
+# fuck
